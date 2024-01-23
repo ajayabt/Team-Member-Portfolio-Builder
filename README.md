@@ -26,7 +26,9 @@ We were provided with some starter code to structure the challenge. It included 
 
 GitHub LINK: https://github.com/ajayabt/Team-Member-Portfolio-Builder 
 
+Example of Generated HTML: [Example team](starter/team.html)
 
+Screenshot of generated HTML (<images/Screenshot 2024-01-23 at 15.50.06.png>)
 
 ## License
 CC0-1.0
